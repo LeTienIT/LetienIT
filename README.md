@@ -1,7 +1,7 @@
 # 💫About Me :
 Xin chào! Tôi là Tiến.
-
-Tôi hiện là một sinh viên CNTT đam mê với kiến thức và kinh nghiệm. Tôi thích khám phá và tìm hiểu về các công nghệ mới, và sẵn lòng chia sẻ kiến thức của mình với cộng đồng lập trình.
+ 
+Tôi hiện là một lập trình viên web và mobile với 2 năm kinh nghiệm. Tôi thích khám phá và tìm hiểu về các công nghệ mới, và sẵn lòng chia sẻ kiến thức của mình với cộng đồng lập trình.
 Tôi có kỹ năng về một số ngôn ngữ lập trình như c++, cs, java, htmlt, css, javascript. Tôi luôn tìm cách nâng cao khả năng lập trình của mình và tiếp tục học hỏi từ các dự án thực tế.
 Trên GitHub, bạn sẽ tìm thấy các dự án của tôi, nó chỉ là các dự án phục vụ cho việc làm bài tập trên lớp hoặc mô phỏng quá trình thực hiện thuật toán hoặc một vài mẫu web tự thiết kế.
 Ngoài lập trình, tôi cũng thích âm nhạc, một vài môn thể thao và game. Tôi tin rằng sự đa dạng trong cuộc sống là một nguồn cảm hứng và tạo ra những kết quả tuyệt vời.
